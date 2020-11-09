@@ -1,3 +1,3 @@
 ### plik dodany do fodleru
 
-print("Dodany do folderu!")
+print("Dodany do folderu !")
